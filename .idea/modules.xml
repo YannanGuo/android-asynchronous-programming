@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-asynchronous-programming.iml" filepath="$PROJECT_DIR$/android-asynchronous-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loader/loader.iml" filepath="$PROJECT_DIR$/loader/loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava/rxjava.iml" filepath="$PROJECT_DIR$/rxjava/rxjava.iml" />
+    </modules>
+  </component>
+</project>
